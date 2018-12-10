@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Old Egg CI LOL!
+            Netlify link to github test!!
           </a>
         </header>
       </div>
