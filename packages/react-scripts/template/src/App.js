@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Old Egg
+            Old Egg CI LOL!
           </a>
         </header>
       </div>
